@@ -1,0 +1,59 @@
+{
+    "name": "BioID Web Services",
+    "description": "BioID offers unique anonymous multimodal biometric authentication services for face recognition and voice recognition with strong privacy protection. Find relevant background information on periocular eye recognition and anti-spoofing liveness detectio...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1311-bioid-web-services.jpg",
+    "tags": [
+        "api provider",
+        "biometrics",
+        "detection",
+        "have api",
+        "identities",
+        "invoices",
+        "photos",
+        "recognition",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bioid-web-services\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BioID Web Services",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1311-bioid-web-services.jpg",
+            "humanURL": "http:\/\/www.bioid.com\/products\/bws\/apis.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bioid-web-services-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.bioid.com\/rss-feed.html"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bioid"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.bioid.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@bioid.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bioid.com\/products\/bws\/apis.html"
+        }
+    ]
+}
